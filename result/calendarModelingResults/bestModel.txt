@@ -1,0 +1,9 @@
+[2025-09-14 10:22:21] === OUTER ITER 13 START ===
+[2025-09-14 10:22:23] [A] q2 (outer/global with local fits) = 2.561880e-04
+[2025-09-14 10:22:23] [A] saved locals -> ./sr_outputs\calendar_bilevel_results_iter13.csv
+[2025-09-14 10:28:12] [B] q1 best: (((-4.397529 / (x0 + -362.79907)) + (exp(x1) * 0.021673592)) + -0.07072101) * sqrt(exp(sqrt(sqrt(sqrt(sqrt(x1))))))
+[2025-09-14 10:28:12] [B] q3 best: ((-0.9603716 / (x1 + -0.12804835)) + 4744.2036) * ((exp(x1) + x1) + (x0 * ((x1 * -0.011460919) + 0.0029329557)))
+[2025-09-14 10:28:12] [C] q2 re-optimized with SR: 2.565551e-04
+[2025-09-14 10:28:12] [EVAL] iter 13 weighted R2 = 0.9223, global R2 = 0.9725
+[2025-09-14 10:28:12] [EVAL] iter 13 metrics -> ./sr_outputs\metrics_calendar_model_iter13.csv
+[2025-09-14 10:28:12] === OUTER ITER 13 END | elapsed 350.31s ===
